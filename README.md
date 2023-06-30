@@ -1,1 +1,1 @@
-# a_random_quo
+# a_random_quote
